@@ -8,7 +8,7 @@ Deep learning is a method in artificial intelligence (AI) that teaches computers
 
 ### TASK 1: [Multiclass Classification](Multiclass_classification.ipynb)
 
-### TASK 2: [CNN Classification](CNN_Classification.ipynb)
+### TASK 2: [CNN Classification](CNN_classification.ipynb)
 
 ## License
 
