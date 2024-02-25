@@ -8,9 +8,11 @@ Deep learning is a method in artificial intelligence (AI) that teaches computers
 
 ### TASK 1: [Multiclass Classification](Multiclass_classification.ipynb)
 
-- Implemention of multiclass classification model for `Cats and Dogs` dataset.
+- Implementation of multiclass classification model for `Cats and Dogs` dataset.
 
 ### TASK 2: [CNN Classification](CNN_classification.ipynb)
+
+- Implementation of a Convolutional Neural Network (CNN) classification model for `MNIST` dataset.
 
 ## License
 
