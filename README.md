@@ -14,6 +14,8 @@ Deep learning is a method in artificial intelligence (AI) that teaches computers
 
 - Implementation of a Convolutional Neural Network (CNN) classification model for `MNIST` dataset.
 
+### TASK 3: [AlexNet Model]
+
 ## License
 
 [MIT License](LICENSE)
