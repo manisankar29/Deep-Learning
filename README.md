@@ -16,6 +16,8 @@ Deep learning is a method in artificial intelligence (AI) that teaches computers
 
 ### TASK 3: [AlexNet Model]
 
+### TASK 4: [VGG Model using Transfer Learning]
+
 ## License
 
 [MIT License](LICENSE)
